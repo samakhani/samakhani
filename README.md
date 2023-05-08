@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Apsy.io<br>🌱 I’m currently learning React.js<br>
+🌱 I’m currently learning React.js<br>
 
 
 # 💻 Tech Stack:
